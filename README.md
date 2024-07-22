@@ -1,3 +1,3 @@
 # Demo for this
 
-this is a test from me$
+this is a test from me!
